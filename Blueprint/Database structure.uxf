@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>81</x>
+      <y>54</y>
+      <w>936</w>
+      <h>540</h>
+    </coordinates>
+    <panel_attributes>Innovata Database</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>558</x>
+      <y>144</y>
+      <w>189</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>_Suggestions(contain Link to page)_
+--
+Linux 
+Networking
+Hacking</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>324</x>
+      <y>144</y>
+      <w>189</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>_Student_Data_
+--
+Student Name
+Department Name
+Batch
+MOB NO.
+Year of Study
+Email Id
+Roll NO.
+Innovata id 
+Password
+Photo</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>783</x>
+      <y>144</y>
+      <w>198</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>_Latest News(Contain Link to page)_
+--
+Cryptography
+Security</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>99</x>
+      <y>144</y>
+      <w>189</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>_Admin_Auth_
+--
+Admin Login Id
+Password
+(Admin Authentication)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>558</x>
+      <y>261</y>
+      <w>189</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>_Feedback Form_
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>99</x>
+      <y>459</y>
+      <w>189</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Earn(Option)
+--
+Receive Notifications Regarding 
+Earning
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>144</x>
+      <y>333</y>
+      <w>144</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+Innovata Id(work)</panel_attributes>
+    <additional_attributes>60.0;140.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>99</x>
+      <y>270</y>
+      <w>99</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Work Related
+--
+Assignments
+MD Drawings
+others</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>198</x>
+      <y>270</y>
+      <w>99</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Projects Related
+--
+Make S/W
+Working Model
+other</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>99</x>
+      <y>243</y>
+      <w>297</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>Post(Option)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>315</x>
+      <y>459</y>
+      <w>189</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>Notifications(Option)
+--
+Receive Notifications Regarding 
+Projects
+
+Receive Notifications Regarding 
+asked Questions
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>288</x>
+      <y>333</y>
+      <w>225</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+Projects/Question Related</panel_attributes>
+    <additional_attributes>120.0;140.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>783</x>
+      <y>261</y>
+      <w>189</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Area of Interest
+--
+OS
+Programming
+Networking</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>783</x>
+      <y>333</y>
+      <w>189</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>Topics
+Researches
+Projects</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>297</x>
+      <y>270</y>
+      <w>99</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Ask Questions
+--
+Which is 
+Best OS
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
